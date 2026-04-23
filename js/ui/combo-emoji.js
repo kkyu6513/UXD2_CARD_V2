@@ -239,5 +239,4 @@
     });
 
     document.addEventListener('click', () => picker.classList.remove('open'));
-  })();
 })();
